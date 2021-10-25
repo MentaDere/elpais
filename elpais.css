@@ -1,0 +1,71 @@
+div {
+    width: 600px;
+    margin: auto;
+}
+
+header {
+    width: auto;
+    height: 50%;
+    background-color: #21303F;
+    text-align: left;
+    position: sticky;
+    top: 0;
+    }
+
+h1 {
+    font-size: 450%;
+    text-align: center;
+    font-family: "Georgia", serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: "Verdana", sans-serif;
+}
+
+#titulillo {
+    font-size: 120%;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.seccion {
+    font-size: 150%;
+}
+
+.alineado {
+    display: inline-block;
+    width: 33%;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+p {
+    font-family: "Verdana", sans-serif;
+    line-height: 180%;
+}
+
+#izq {
+    text-align: left;
+}
+
+#cent {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#der {
+    text-align: right;
+}
+
+figure {
+    margin-left: -25%;
+    margin-right: -25%;
+}
